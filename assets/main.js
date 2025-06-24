@@ -1,1 +1,0 @@
-// JavaScript logic for VibeCheck
